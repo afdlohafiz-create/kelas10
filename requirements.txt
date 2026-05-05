@@ -1,6 +1,2 @@
-streamlit
-requests
-py3Dmol
-stmol
-google-generativeai
+
 streamlit
